@@ -41,8 +41,8 @@ Formulate the main research question and, if applicable, sub-questions.
 Discuss the theoretical background related to the problem. Cite relevant research papers and studies using square brackets for references, e.g., [1]. Explain key concepts, terminologies, and any models that support the study. 
 
 Example citations:
-- The concept of circular economy has been widely studied in recent years, demonstrating its effectiveness in reducing waste and increasing resource efficiency [1](#ref1).
-- Prior research highlights the importance of integrating machine learning techniques in sustainability studies to optimize predictive models [2](#ref2).
+- The concept of circular economy has been widely studied in recent years, demonstrating its effectiveness in reducing waste and increasing resource efficiency [[1](#ref1)].
+- Prior research highlights the importance of integrating machine learning techniques in sustainability studies to optimize predictive models [[2](#ref2)].
 ---
 
 ## **3. Methodology**  
