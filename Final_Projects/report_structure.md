@@ -103,7 +103,7 @@ Students should organize their repository as follows:
 ```
 📂 Project-Title/
 │── 📄 README.md  # Short description of the project (Max 300 words)
-│── 📄 Report.md  # The research report in Markdown format (4000 - 6000 words)
+│── 📄 Report.md  # The research report in Markdown format (5000 - 7000 words)
 │── 📁 data/  # Raw and processed datasets
 │── 📁 notebooks/  # Jupyter notebooks with code and analysis
 │── 📁 figures/  # Plots, charts, and visualizations
