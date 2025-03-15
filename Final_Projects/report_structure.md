@@ -4,7 +4,7 @@
 
 | Name | Specific Contribution in this Report |
 |------|--------------------------------------|
-| Student 1 | Data analysis, writing methodology |
+| Feisal Fatehali Dewji | Data analysis, writing methodology |
 | Student 2 | Literature review, discussion |
 | Student 3 | Data preprocessing, visualization |
 | Student 4 | Writing findings and discussion |
